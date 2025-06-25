@@ -1,5 +1,4 @@
 ##Ejercicio 05
-##Ejercicio 04
 import random
 operacion= 0
 num1=0
